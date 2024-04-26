@@ -70,6 +70,19 @@ Purpose: Monitoring and logging solutions help track the performance, health, an
 Configuration: Configure Azure Monitor to collect metrics and logs from the Databricks cluster. You can use Log Analytics to centralize log data and create custom queries and dashboards for monitoring.
 Integration: Databricks provides integration with Azure Monitor and Log Analytics, allowing you to send cluster metrics, application logs, and audit logs to Azure Monitor for analysis and visualization.
 
+<hr>
+Best architecting practictes related to Azure Databricks include :
+
+• Use a layered architecture: A layered architecture separates your data and workloads into different layers, such as a landing zone, a data lake, and a data warehouse. This makes it easier to manage your data and workloads, and it also improves performance and security.
+
+• Use Delta Lake: Delta Lake is an open-source storage format that provides ACID transactions and other features that make it ideal for storing data in Azure Databricks. It is also compatible with Spark, so you can use existing Spark code to process and transform your data.
+
+• Use autoscaling: Autoscaling allows Azure Databricks to automatically scale your clusters up or down based on the demand. This can help you to save money on compute costs.
+
+• Use managed services: Azure Databricks provides a variety of managed services, such as managed notebooks and managed streaming. These services can help you to reduce the operational overhead of managing your Azure Databricks environment.
+Use security features: Azure Databricks provides a variety of security features, such as role-based access control (RBAC) and encryption. These features can help you to protect your data and workloads from unauthorized access.
+
+
 ## Author
 
 * **Isaac Arnault** - Suggesting a way to deploy a databricks cluster on [Azure](https://azure.microsoft.com)
