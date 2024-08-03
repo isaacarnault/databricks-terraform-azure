@@ -1,6 +1,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-[![terraform-azure.png](https://i.postimg.cc/Nf45HtZR/terraform-azure.png)](https://postimg.cc/VdJYxxfN)
+[![isaac-arnault-SAP.jpg](https://i.postimg.cc/6qhJFQs5/isaac-arnault-SAP.jpg)](https://postimg.cc/H8jhydsf)
 
 These artefacts are intented to help you provision a Databricks cluster on Azure using Infrastructure As Code (IaC).
 
