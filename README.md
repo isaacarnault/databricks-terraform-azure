@@ -1,6 +1,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-[![isaac-arnault-SAP.jpg](https://i.postimg.cc/6qhJFQs5/isaac-arnault-SAP.jpg)](https://postimg.cc/H8jhydsf)
+[![terraform-azure.png](https://i.postimg.cc/Nf45HtZR/terraform-azure.png)](https://postimg.cc/VdJYxxfN)
 
 These artefacts are intented to help you provision a Databricks cluster on Azure using Infrastructure As Code (IaC).
 
@@ -88,6 +88,10 @@ Use security features: Azure Databricks provides a variety of security features,
 * **Isaac Arnault** - Suggesting a way to deploy a databricks cluster on [Azure](https://azure.microsoft.com)
 
 ## License
+
+All public gists https://gist.github.com/aiPhD<br>
+Copyright 2024, Isaac Arnault<br>
+MIT License, http://www.opensource.org/licenses/mit-license.php
 
 All public gists https://gist.github.com/aiPhD<br>
 Copyright 2024, Isaac Arnault<br>
